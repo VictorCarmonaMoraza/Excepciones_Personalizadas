@@ -1,0 +1,16 @@
+C:\Users\Victo\Desktop\Proyectos 2022\Excepciones_Personalizadas\Ecepciones_Personalizadas\Ecepciones_Personalizadas\bin\Debug\net5.0\Ecepciones_Personalizadas.exe
+C:\Users\Victo\Desktop\Proyectos 2022\Excepciones_Personalizadas\Ecepciones_Personalizadas\Ecepciones_Personalizadas\bin\Debug\net5.0\Ecepciones_Personalizadas.deps.json
+C:\Users\Victo\Desktop\Proyectos 2022\Excepciones_Personalizadas\Ecepciones_Personalizadas\Ecepciones_Personalizadas\bin\Debug\net5.0\Ecepciones_Personalizadas.runtimeconfig.json
+C:\Users\Victo\Desktop\Proyectos 2022\Excepciones_Personalizadas\Ecepciones_Personalizadas\Ecepciones_Personalizadas\bin\Debug\net5.0\Ecepciones_Personalizadas.runtimeconfig.dev.json
+C:\Users\Victo\Desktop\Proyectos 2022\Excepciones_Personalizadas\Ecepciones_Personalizadas\Ecepciones_Personalizadas\bin\Debug\net5.0\Ecepciones_Personalizadas.dll
+C:\Users\Victo\Desktop\Proyectos 2022\Excepciones_Personalizadas\Ecepciones_Personalizadas\Ecepciones_Personalizadas\bin\Debug\net5.0\ref\Ecepciones_Personalizadas.dll
+C:\Users\Victo\Desktop\Proyectos 2022\Excepciones_Personalizadas\Ecepciones_Personalizadas\Ecepciones_Personalizadas\bin\Debug\net5.0\Ecepciones_Personalizadas.pdb
+C:\Users\Victo\Desktop\Proyectos 2022\Excepciones_Personalizadas\Ecepciones_Personalizadas\Ecepciones_Personalizadas\obj\Debug\net5.0\Ecepciones_Personalizadas.csproj.AssemblyReference.cache
+C:\Users\Victo\Desktop\Proyectos 2022\Excepciones_Personalizadas\Ecepciones_Personalizadas\Ecepciones_Personalizadas\obj\Debug\net5.0\Ecepciones_Personalizadas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victo\Desktop\Proyectos 2022\Excepciones_Personalizadas\Ecepciones_Personalizadas\Ecepciones_Personalizadas\obj\Debug\net5.0\Ecepciones_Personalizadas.AssemblyInfoInputs.cache
+C:\Users\Victo\Desktop\Proyectos 2022\Excepciones_Personalizadas\Ecepciones_Personalizadas\Ecepciones_Personalizadas\obj\Debug\net5.0\Ecepciones_Personalizadas.AssemblyInfo.cs
+C:\Users\Victo\Desktop\Proyectos 2022\Excepciones_Personalizadas\Ecepciones_Personalizadas\Ecepciones_Personalizadas\obj\Debug\net5.0\Ecepciones_Personalizadas.csproj.CoreCompileInputs.cache
+C:\Users\Victo\Desktop\Proyectos 2022\Excepciones_Personalizadas\Ecepciones_Personalizadas\Ecepciones_Personalizadas\obj\Debug\net5.0\Ecepciones_Personalizadas.dll
+C:\Users\Victo\Desktop\Proyectos 2022\Excepciones_Personalizadas\Ecepciones_Personalizadas\Ecepciones_Personalizadas\obj\Debug\net5.0\ref\Ecepciones_Personalizadas.dll
+C:\Users\Victo\Desktop\Proyectos 2022\Excepciones_Personalizadas\Ecepciones_Personalizadas\Ecepciones_Personalizadas\obj\Debug\net5.0\Ecepciones_Personalizadas.pdb
+C:\Users\Victo\Desktop\Proyectos 2022\Excepciones_Personalizadas\Ecepciones_Personalizadas\Ecepciones_Personalizadas\obj\Debug\net5.0\Ecepciones_Personalizadas.genruntimeconfig.cache
